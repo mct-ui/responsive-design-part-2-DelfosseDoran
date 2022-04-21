@@ -397,6 +397,10 @@ a:focus {
   #COMPONENTS
 \*------------------------------------*/
 
+.c-center {
+  text-align: center;
+}
+
 /*
     Component: header
     ---
